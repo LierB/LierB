@@ -1,4 +1,4 @@
-## Hi there. I'm Betty.
+![Bettina Lier Header](https://github.com/LierB/LierB/blob/main/header.png)
 
 a compchem girl. 👩‍💻\
 a PhD student at [BioToP](https://biotop.boku.ac.at/) [BOKUvienna](https://boku.ac.at/en/map/mms). 👩‍🎓\
@@ -6,10 +6,10 @@ a musician & music lover. 🎵🎹🎧\
 a macrophotographer & insect lover. 📸🦗\
 a chronic illness warrior.💪
 
-## Education
-...is one of my love stories: from chemistry to chemistry😍\
-high school: chemistry ➡️ bachelor: biotechnology ➡️ master: biotechnology/bioinformatics ➡️ PhD: computational chemistry
 
+## Education
+...is one of my love stories: from chemistry back to chemistry😍\
+![Bettina Lier Header](https://github.com/LierB/LierB/blob/main/education.png)
 ## Projects
 
 ...I'm currently working on.\
@@ -44,21 +44,7 @@ that I've used so far
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />
 --->
   
-## Connect with me  
-<a href="https://github.com/LierB" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/BettinaLier" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/bettinalier" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/bina.naturina" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
 
-...or write me an email - lier.bettina@gmail.com
 
 <!---
 LierB/LierB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
