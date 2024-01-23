@@ -15,7 +15,7 @@ I'm new to ricing, making my workflow more efficient and my computer pretty.
 
 ### ♡ I love technology & tools on computers ♡
 
-I've been using these so far \
+I've been using these so far: \
 <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" height="25" />
 <a href="https://www.debian.org/" target="_blank"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="debian" height="25" />
 <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" height="25" />
@@ -47,42 +47,18 @@ I've been using these so far \
 <a href="https://www.adobe.com/products/indesign" target="_blank"><img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" alt="InDesign" height="25" />
 <a href="https://www.adobe.com/products/photoshop" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" height="25" />
 <a href="https://www.blender.org/" target="_blank"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" height="25" />
-<a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" height="25" />
-<a href="https://steamcommunity.com" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam" height="25" />
 </a>  
 
-<!---
-![Bettina Lier Header](https://github.com/LierB/LierB/blob/main/header.png)
-![Bettina Lier Header](https://github.com/LierB/LierB/blob/main/education.png)
-at [BOKUvienna](https://boku.ac.at/en/map/mms)
-...a compchem girl. 👩‍💻\
-...a PhD student. 👩‍🎓\
-...a musician & music lover. 🎵🎹🎧\
-...a computer & board gamer. 🖥️🎲🃏\
-...a chronic illness warrior. 👩‍🦽💪
---->
   
 ## Connect with me
 
-<a href="https://twitter.com/BettinaLier" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="27" />
-</a>
-<a href="https://linkedin.com/in/bettinalier" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="27" />
-</a>  
-<a href="https://www.researchgate.net/profile/Bettina-Lier" target="_blank">
-<img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="researchgate" height="27" />
-</a>   
-<a href="https://scholar.google.com/citations?user=9w6-cvsAAAAJ&hl=de&oi=ao" target="_blank">
-<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="google scholar" height="27" />
-</a>  
-<a href="https://orcid.org/my-orcid?orcid=0000-0002-8032-0084" target="_blank">
-<img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="orcid" height="27" />
+<a href="https://twitter.com/BettinaLier" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="27" />
+<a href="https://linkedin.com/in/bettinalier" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="27" />
+ <a href="https://www.researchgate.net/profile/Bettina-Lier" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="researchgate" height="27" />
+<a href="https://scholar.google.com/citations?user=9w6-cvsAAAAJ&hl=de&oi=ao" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="google scholar" height="27" />
+<a href="https://orcid.org/my-orcid?orcid=0000-0002-8032-0084" target="_blank"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="orcid" height="27" />
+<a href="https://instagram.com/bina.naturina" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" height="27" />
 </a> 
-<a href="https://instagram.com/bina.naturina" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" height="27" />
-
-
 
 
 
