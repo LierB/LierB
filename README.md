@@ -1,61 +1,90 @@
+## Hey there, I'm Bina
+
+### ♡ I love to do chemistry on computers ♡
+
+I'm developing and running [BuRNN](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.2c00654), a hybrid quantum mechanics/molecular mechanics (QM/MM) method to simulate molecules. \
+It's part of the [GROMOS](https://github.com/biomos) simulation software linked to the atomistic neural network [SchNetPack](https://github.com/atomistic-machine-learning/schnetpack). \
+I'm also contributing to [global-chem](https://github.com/Sulstice/global-chem), a graph database for molecules.
+
+
+### ♡ I love to do other stuff on computers ♡
+
+I'm creating digital art, editing my macro shots, playing games, destroying monkeytype and listening to music. \
+I'm new to ricing, making my workflow more efficient and my computer pretty.
+
+
+### ♡ I love technology & tools on computers ♡
+
+I've been using these so far \
+<a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" height="25" />
+<a href="https://www.debian.org/" target="_blank"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="debian" height="25" />
+<a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" height="25" />
+<a href="https://www.apple.com/macos/" target="_blank"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="mac" height="25" />
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="bash" height="25" />
+<a href="https://www.vim.org/" target="_blank"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim" height="25" />
+<a href="https://neovim.io" target="_blank"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="neovim" height="25" />
+<a href="https://www.gnu.org/software/emacs/" target="_blank"><img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" alt="emacs" height="25" />
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" height="25" />
+<a href="https://atom-editor.cc" target="_blank"><img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" alt="atom" height="25" />
+<a href="https://www.r-project.org" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" height="25" />
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" alt="python" height="25" />
+<a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" height="25" />
+<a href="https://docs.conda.io/" target="_blank"><img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" alt="Conda" height="25" />
+<a href="https://numpy.org" target="_blank"><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" height="25" />
+<a href="https://scipy.org" target="_blank"><img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" alt="scipy" height="25" />
+<a href="https://pandas.pydata.org" target="_blank"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" height="25" />
+<a href="https://plotly.com" target="_blank"><img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly" height="25" />
+<a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn" height="25" />
+<a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Pytorch" height="25" />
+<a href="https://www.tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow" height="25" />
+<a href="https://www.cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="25" />
+<a href="https://www.latex-project.org/" target="_blank"><img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="Latex" height="25" />
+<a href="https://www.overleaf.com/" target="_blank"><img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" alt="overleaf" height="25" />
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" height="25" />
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" height="25" />
+<a href="https://about.gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" height="25" />
+<a href="https://www.adobe.com/products/illustrator" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator" height="25" />
+<a href="https://www.adobe.com/products/indesign" target="_blank"><img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" alt="InDesign" height="25" />
+<a href="https://www.adobe.com/products/photoshop" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" height="25" />
+<a href="https://www.blender.org/" target="_blank"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" height="25" />
+<a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" height="25" />
+<a href="https://steamcommunity.com" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam" height="25" />
+</a>  
+
+<!---
 ![Bettina Lier Header](https://github.com/LierB/LierB/blob/main/header.png)
-
-a compchem girl. 👩‍💻\
-a PhD student at [BioToP](https://biotop.boku.ac.at/) [BOKUvienna](https://boku.ac.at/en/map/mms). 👩‍🎓\
-a musician & music lover. 🎵🎹🎧\
-a macrophotographer & insect lover. 📸🦗\
-a chronic illness warrior.💪
-
-
-## Education
-...is one of my love stories: from chemistry back to chemistry😍\
 ![Bettina Lier Header](https://github.com/LierB/LierB/blob/main/education.png)
-## Projects
-
-...I'm currently working on.\
-My main work is the development of [BuRNN](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.2c00654), 
-a hybrid simulation method for polarizable NN(QM)/MM simulations in [Gromos](http://www.gromos.net/) linking to [SchNet](https://github.com/atomistic-machine-learning/SchNet).\
-I'm also contributing to [global-chem](https://github.com/Sulstice/global-chem), a graph database for chemical lists.
-
-
-## Technology & Tools
-that I've used so far
-
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
-<a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/182618272-390ab138-7b29-44a0-85a2-62633957d815.png" alt="Visual Studio" height="50" />
-<a href="https://www.vim.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/182617981-6a50fe2d-d716-40ae-bbf1-ef790ffb5b81.png" alt="Vim" height="50" />
-<a href="https://www.gnu.org/software/emacs/" target="_blank"><img style="margin: 10px" src="https://github.com/get-icon/geticon/blob/master/icons/emacs.svg" alt="Vim" height="50" />
-<a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" height="50" />
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" height="50" />
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.com/get-icon/geticon/blob/master/icons/github-icon.svg" alt="GitLab" height="50" />
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
-  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" />
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Illustrator" height="50" />
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" />
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Photoshop" height="50" />
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" />
-
+at [BOKUvienna](https://boku.ac.at/en/map/mms)
+...a compchem girl. 👩‍💻\
+...a PhD student. 👩‍🎓\
+...a musician & music lover. 🎵🎹🎧\
+...a computer & board gamer. 🖥️🎲🃏\
+...a chronic illness warrior. 👩‍🦽💪
+--->
   
 ## Connect with me
 
-<a href="https://github.com/LierB" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/BettinaLier" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/bina.naturina" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="27" />
 </a>
 <a href="https://linkedin.com/in/bettinalier" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="27" />
 </a>  
-  
-...or write me via email: lier.bettina@gmail.com
+<a href="https://www.researchgate.net/profile/Bettina-Lier" target="_blank">
+<img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="researchgate" height="27" />
+</a>   
+<a href="https://scholar.google.com/citations?user=9w6-cvsAAAAJ&hl=de&oi=ao" target="_blank">
+<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="google scholar" height="27" />
+</a>  
+<a href="https://orcid.org/my-orcid?orcid=0000-0002-8032-0084" target="_blank">
+<img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="orcid" height="27" />
+</a> 
+<a href="https://instagram.com/bina.naturina" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" height="27" />
+
+
+
+
 
 <!---
 LierB/LierB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
