@@ -9,8 +9,8 @@ I'm also contributing to [global-chem](https://github.com/Sulstice/global-chem),
 
 ### ♡ I love to do other stuff on computers ♡
 
-I'm creating digital art, editing my macro shots, playing games, destroying monkeytype and listening to music. \
-I'm new to ricing, making my workflow more efficient and my computer pretty.
+I'm creating digital art, editing my macro shots, playing games, training my fingers with monkeytype and listening to music. \
+I'm new to linux ricing, making my workflow more efficient and my desktop pretty.
 
 
 ### ♡ I love technology & tools on computers ♡
@@ -19,6 +19,7 @@ I've been using these so far: \
 <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" height="25" />
 <a href="https://www.debian.org/" target="_blank"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="debian" height="25" />
 <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" height="25" />
+<a href="https://archlinux.org" target="_blank"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="arch linux" height="25" />
 <a href="https://www.apple.com/macos/" target="_blank"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="mac" height="25" />
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="bash" height="25" />
 <a href="https://www.vim.org/" target="_blank"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim" height="25" />
@@ -54,15 +55,15 @@ I've been using these so far: \
 
 <a href="https://twitter.com/BettinaLier" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="27" />
 <a href="https://linkedin.com/in/bettinalier" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="27" />
- <a href="https://www.researchgate.net/profile/Bettina-Lier" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="researchgate" height="27" />
+<a href="https://www.researchgate.net/profile/Bettina-Lier" target="_blank"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="researchgate" height="27" />
 <a href="https://scholar.google.com/citations?user=9w6-cvsAAAAJ&hl=de&oi=ao" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="google scholar" height="27" />
 <a href="https://orcid.org/my-orcid?orcid=0000-0002-8032-0084" target="_blank"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="orcid" height="27" />
 <a href="https://instagram.com/bina.naturina" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" height="27" />
 </a> 
 
 
-
 <!---
 LierB/LierB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+badges from https://github.com/alexandresanlim/Badges4-README.md-Profile
 --->
