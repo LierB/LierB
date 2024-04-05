@@ -7,12 +7,14 @@ It's part of the [GROMOS](https://github.com/biomos) simulation software linked 
 I'm also contributing to [global-chem](https://github.com/Sulstice/global-chem), a graph database for molecules.
 
 
-### ♡ I love to do other stuff on computers ♡
+### ♡ I love to do my hobbies on computers ♡
 
 I'm creating digital art, editing my macro shots, playing games, training my fingers with monkeytype and listening to music. \
 I'm new to linux ricing, making my workflow more efficient and my desktop pretty.
 
+### ♡ What do you love to do on computers? ♡
 
+<!---
 ### ♡ I love technology & tools on computers ♡
 
 I've been using these so far: \
@@ -62,7 +64,7 @@ I've been using these so far: \
 </a> 
 
 
-<!---
+
 LierB/LierB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 badges from https://github.com/alexandresanlim/Badges4-README.md-Profile
