@@ -8,8 +8,7 @@ I'm also contributing to [global-chem](https://github.com/Sulstice/global-chem),
 
 #### ♡ I love to do my hobbies on computers ♡
 
-I'm creating digital art, editing my macro shots, playing games, training my fingers with monkeytype and listening to music. \
-I'm new to linux ricing, making my workflow more efficient and my desktop pretty.
+I'm ricing my linux desktop to make it pretty and more effiicient, training my typing skills, playing games, editing my macro shots and creating digital art.
 
 #### ♡ What do you love to do on computers? ♡
 
