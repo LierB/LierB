@@ -26,10 +26,13 @@ I'm ricing my linux desktop to make it pretty and more effiicient, training my t
 
 ### Tech & Tools
 <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" height="25" />
-<a href="https://www.debian.org/" target="_blank"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="debian" height="25" />
+<a href="https://archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="arch linux" height="25" />
+<a href="https://fedoraproject.org/" target="_blank"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="fedora" height="25" />
 <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" height="25" />
-<a href="https://archlinux.org" target="_blank"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="arch linux" height="25" />
+<a href="https://www.debian.org/" target="_blank"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="debian" height="25" />
+<a href="https://gentoo.org/" target="_blank"><img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" alt="gentoo" height="25" />
 <a href="https://www.vim.org/" target="_blank"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim" height="25" />
+<a href="https://neovim.io/" target="_blank"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" height="25" />
 <a href="https://www.gnu.org/software/emacs/" target="_blank"><img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" alt="emacs" height="25" />
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" height="25" />
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" height="25" />
@@ -49,7 +52,7 @@ I'm ricing my linux desktop to make it pretty and more effiicient, training my t
 </a> 
 
 ### Github Stats & Streak
-<img src="https://github-readme-stats.vercel.app/api?username=LierB&show_icons=true&theme=synthwave" width="45.3%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=LierB&theme=synthwave" width="48%" >
+<img src="https://github-readme-stats.vercel.app/api?username=LierB&show_icons=true&theme=rose_pine" width="45.3%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=LierB&theme=rose_pine" width="48%" >
 
 
 <!---
