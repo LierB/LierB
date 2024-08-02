@@ -4,7 +4,8 @@
 
 I'm developing and running [BuRNN](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.2c00654), a hybrid quantum mechanics/molecular mechanics (QM/MM) method to simulate molecules. \
 It's part of the [GROMOS](https://github.com/biomos) simulation software linked to the atomistic neural network [SchNetPack](https://github.com/atomistic-machine-learning/schnetpack). \
-I'm also contributing to [global-chem](https://github.com/Sulstice/global-chem), a graph database for molecules.
+Currently, I'm contributing to the [advanced GROMOS tutorials](https://github.com/biomos/gromos_tutorial_livecoms). \
+I was also contributing to [global-chem](https://github.com/Sulstice/global-chem), a graph database for molecules.
 
 #### ♡ I love to do my hobbies on computers ♡
 
@@ -12,6 +13,7 @@ I'm ricing my linux desktop to make it pretty and more effiicient, training my t
 
 #### ♡ What do you love to do on computers? ♡
 
+<!---
 ### Connect with me
 
 <a href="mailto:lier.bettina@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" height="25" />
@@ -53,7 +55,7 @@ I'm ricing my linux desktop to make it pretty and more effiicient, training my t
 
 ### Github Stats & Streak
 <img src="https://github-readme-stats.vercel.app/api?username=LierB&show_icons=true&theme=rose_pine" width="45.3%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=LierB&theme=rose_pine" width="48%" >
-
+--->
 
 <!---
 ### ♡ I love technology & tools on computers ♡
